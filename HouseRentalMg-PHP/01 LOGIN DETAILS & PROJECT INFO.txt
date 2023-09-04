@@ -1,0 +1,17 @@
+**Database Name: No Broker**
+
+**Developed by Shantanu Vairagade**
+
+**Recommended PHP Version 5.6.3**
+
+
+**Owner's Login** 
+
+Email:shantanuvairagade8684@gmail.com
+Password:8684
+
+
+**Tenant Login**
+
+Email:shantanuvairagade@gmail.com
+Password: 12345
